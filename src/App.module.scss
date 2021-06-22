@@ -1,0 +1,13 @@
+.maindiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  height: max-content;
+  width: 100vw;
+  margin: 20px;
+  border: solid 2px fuchsia;
+}
